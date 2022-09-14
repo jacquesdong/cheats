@@ -1,0 +1,9 @@
+% rustup
+
+# Add component
+rustup component add <component>
+
+# Remove component
+rustup component remove <component>
+
+$ component: rustup component list
